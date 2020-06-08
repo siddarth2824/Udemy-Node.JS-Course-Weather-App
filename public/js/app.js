@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
 //caling fetch in client side java will kick off an asycn IO operation
 //hence we wont be able to have access to the data right away
 
